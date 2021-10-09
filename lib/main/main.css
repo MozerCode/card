@@ -1,0 +1,14 @@
+body {
+    background-color: #333; /* Цвет фона #333 */
+}
+
+.mt-10 {
+    margin-top: 2%;
+}
+
+.my-el {
+    background-color: white;
+    height: 200px;
+    width: auto;
+    margin: 5px;
+}
