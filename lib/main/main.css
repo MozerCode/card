@@ -13,8 +13,8 @@ body {
 }
 
 .my-el img{
-    margin-top: 50px;
-    height: 200px;
+    margin-top: 100px;
+    height: 100px;
     cursor: pointer;
 }
 
@@ -34,3 +34,9 @@ body {
     font-size: 2rem;
 }
 
+@media (max-width: 991.98px){
+    .my-el img{
+        margin-top: 75px;
+        height: 150px;
+    }
+}
